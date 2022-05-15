@@ -7,8 +7,7 @@ Dana is a data journalist that has access to a JavaScript file that is filled to
 With the assistance of the search criteria, it has never been easier to search for information about an UFO sighting from McMinnville, Oregon. Users will be able to use seven different search criteria’s: Date, City, State, Country, and Shape. Referencing the “app.js” allows JavaScript to use a filter function that saves the element, value, and id of the filter that was changed. Then, it will loop through the dataset and keep only the results that match the search criteria.  
 
 ### UFO Search Criteria:
-
-
+<img width="1920" alt="UFO Website" src="https://user-images.githubusercontent.com/99099706/168453164-636c8833-cdb3-424a-8072-9baab000d6cd.png">
 ## Summary:
 
 One drawback to using this search criteria is that the search criteria must be exact. The user must type the exact word or data in order to search through the dataset. If the user input 1/12/2010 as 01/12/2010 no information will be shown. The search criteria is also case sensitive. In order to improve the website, the code can be updated to allow for a wider search feature for dates and to also make the search criteria not case sensitive. 
